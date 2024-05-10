@@ -12,6 +12,7 @@
 		CE196DC22BEE504D00BC0C90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE196DC12BEE504D00BC0C90 /* Assets.xcassets */; };
 		CE196DC52BEE504D00BC0C90 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE196DC42BEE504D00BC0C90 /* Preview Assets.xcassets */; };
 		CE196DCC2BEE510A00BC0C90 /* LongPressGastureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE196DCB2BEE510A00BC0C90 /* LongPressGastureBootcamp.swift */; };
+		CE537B192BEE6DE10076D37A /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE537B182BEE6DE10076D37A /* MagnificationGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		CE196DC12BEE504D00BC0C90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE196DC42BEE504D00BC0C90 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE196DCB2BEE510A00BC0C90 /* LongPressGastureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGastureBootcamp.swift; sourceTree = "<group>"; };
+		CE537B182BEE6DE10076D37A /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				CE196DBD2BEE504C00BC0C90 /* SwiftfulThinkingContiniuedLeraningApp.swift */,
 				CE196DBF2BEE504C00BC0C90 /* ContentView.swift */,
 				CE196DCB2BEE510A00BC0C90 /* LongPressGastureBootcamp.swift */,
+				CE537B182BEE6DE10076D37A /* MagnificationGestureBootcamp.swift */,
 				CE196DC12BEE504D00BC0C90 /* Assets.xcassets */,
 				CE196DC32BEE504D00BC0C90 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				CE196DC02BEE504C00BC0C90 /* ContentView.swift in Sources */,
 				CE196DCC2BEE510A00BC0C90 /* LongPressGastureBootcamp.swift in Sources */,
+				CE537B192BEE6DE10076D37A /* MagnificationGestureBootcamp.swift in Sources */,
 				CE196DBE2BEE504C00BC0C90 /* SwiftfulThinkingContiniuedLeraningApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
