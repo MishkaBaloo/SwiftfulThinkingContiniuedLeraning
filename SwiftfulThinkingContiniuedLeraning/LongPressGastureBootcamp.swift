@@ -13,7 +13,7 @@ struct LongPressGestureBootcamp: View {
     @State var isSuccess: Bool = false
     
     var body: some View {
-        
+        // try to merge fork with xcode
         VStack{
             Rectangle()
                 .fill(isSuccess ? Color.green : Color.blue)
