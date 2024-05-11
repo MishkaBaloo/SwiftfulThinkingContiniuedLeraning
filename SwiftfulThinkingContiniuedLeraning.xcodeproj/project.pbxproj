@@ -18,6 +18,7 @@
 		CE76C8352BEFADFD0068DD36 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C8342BEFADFD0068DD36 /* ScrollViewReaderBootcamp.swift */; };
 		CE76C8372BEFB2DD0068DD36 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C8362BEFB2DD0068DD36 /* GeometryReaderBootcamp.swift */; };
 		CE76C8392BEFCBA30068DD36 /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C8382BEFCBA30068DD36 /* MultipleSheetsBootcamp.swift */; };
+		CE76C83B2BEFDB6B0068DD36 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C83A2BEFDB6B0068DD36 /* MaskBootcamp.swift */; };
 		CEFD5ADF2BEE8D320099E480 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFD5ADE2BEE8D320099E480 /* DragGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -34,6 +35,7 @@
 		CE76C8342BEFADFD0068DD36 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		CE76C8362BEFB2DD0068DD36 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		CE76C8382BEFCBA30068DD36 /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
+		CE76C83A2BEFDB6B0068DD36 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
 		CEFD5ADE2BEE8D320099E480 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -77,6 +79,7 @@
 				CE76C8342BEFADFD0068DD36 /* ScrollViewReaderBootcamp.swift */,
 				CE76C8362BEFB2DD0068DD36 /* GeometryReaderBootcamp.swift */,
 				CE76C8382BEFCBA30068DD36 /* MultipleSheetsBootcamp.swift */,
+				CE76C83A2BEFDB6B0068DD36 /* MaskBootcamp.swift */,
 				CE196DC12BEE504D00BC0C90 /* Assets.xcassets */,
 				CE196DC32BEE504D00BC0C90 /* Preview Content */,
 			);
@@ -162,6 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEFD5ADF2BEE8D320099E480 /* DragGestureBootcamp.swift in Sources */,
+				CE76C83B2BEFDB6B0068DD36 /* MaskBootcamp.swift in Sources */,
 				CE196DC02BEE504C00BC0C90 /* ContentView.swift in Sources */,
 				CE196DCC2BEE510A00BC0C90 /* LongPressGastureBootcamp.swift in Sources */,
 				CE76C8352BEFADFD0068DD36 /* ScrollViewReaderBootcamp.swift in Sources */,
