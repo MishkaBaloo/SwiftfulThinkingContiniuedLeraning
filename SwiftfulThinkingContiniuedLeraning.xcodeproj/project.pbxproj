@@ -16,6 +16,7 @@
 		CE537B1B2BEE7B7A0076D37A /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE537B1A2BEE7B7A0076D37A /* RotationGestureBootcamp.swift */; };
 		CE76C8332BEFA3300068DD36 /* DragGestureBootcampAdditional.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C8322BEFA3300068DD36 /* DragGestureBootcampAdditional.swift */; };
 		CE76C8352BEFADFD0068DD36 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C8342BEFADFD0068DD36 /* ScrollViewReaderBootcamp.swift */; };
+		CE76C8372BEFB2DD0068DD36 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C8362BEFB2DD0068DD36 /* GeometryReaderBootcamp.swift */; };
 		CEFD5ADF2BEE8D320099E480 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFD5ADE2BEE8D320099E480 /* DragGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -30,6 +31,7 @@
 		CE537B1A2BEE7B7A0076D37A /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 		CE76C8322BEFA3300068DD36 /* DragGestureBootcampAdditional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcampAdditional.swift; sourceTree = "<group>"; };
 		CE76C8342BEFADFD0068DD36 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
+		CE76C8362BEFB2DD0068DD36 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		CEFD5ADE2BEE8D320099E480 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -71,6 +73,7 @@
 				CEFD5ADE2BEE8D320099E480 /* DragGestureBootcamp.swift */,
 				CE76C8322BEFA3300068DD36 /* DragGestureBootcampAdditional.swift */,
 				CE76C8342BEFADFD0068DD36 /* ScrollViewReaderBootcamp.swift */,
+				CE76C8362BEFB2DD0068DD36 /* GeometryReaderBootcamp.swift */,
 				CE196DC12BEE504D00BC0C90 /* Assets.xcassets */,
 				CE196DC32BEE504D00BC0C90 /* Preview Content */,
 			);
@@ -161,6 +164,7 @@
 				CE76C8352BEFADFD0068DD36 /* ScrollViewReaderBootcamp.swift in Sources */,
 				CE537B192BEE6DE10076D37A /* MagnificationGestureBootcamp.swift in Sources */,
 				CE196DBE2BEE504C00BC0C90 /* SwiftfulThinkingContiniuedLeraningApp.swift in Sources */,
+				CE76C8372BEFB2DD0068DD36 /* GeometryReaderBootcamp.swift in Sources */,
 				CE537B1B2BEE7B7A0076D37A /* RotationGestureBootcamp.swift in Sources */,
 				CE76C8332BEFA3300068DD36 /* DragGestureBootcampAdditional.swift in Sources */,
 			);
