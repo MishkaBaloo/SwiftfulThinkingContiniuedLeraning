@@ -19,6 +19,9 @@
 		CE76C8372BEFB2DD0068DD36 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C8362BEFB2DD0068DD36 /* GeometryReaderBootcamp.swift */; };
 		CE76C8392BEFCBA30068DD36 /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C8382BEFCBA30068DD36 /* MultipleSheetsBootcamp.swift */; };
 		CE76C83B2BEFDB6B0068DD36 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C83A2BEFDB6B0068DD36 /* MaskBootcamp.swift */; };
+		CE76C83D2BEFF0F00068DD36 /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C83C2BEFF0F00068DD36 /* SoundsBootcamp.swift */; };
+		CE76C8412BF005650068DD36 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CE76C83F2BF005650068DD36 /* tada.mp3 */; };
+		CE76C8422BF005650068DD36 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CE76C8402BF005650068DD36 /* badum.mp3 */; };
 		CEFD5ADF2BEE8D320099E480 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFD5ADE2BEE8D320099E480 /* DragGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -36,6 +39,9 @@
 		CE76C8362BEFB2DD0068DD36 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		CE76C8382BEFCBA30068DD36 /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
 		CE76C83A2BEFDB6B0068DD36 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
+		CE76C83C2BEFF0F00068DD36 /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
+		CE76C83F2BF005650068DD36 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
+		CE76C8402BF005650068DD36 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
 		CEFD5ADE2BEE8D320099E480 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -80,6 +86,8 @@
 				CE76C8362BEFB2DD0068DD36 /* GeometryReaderBootcamp.swift */,
 				CE76C8382BEFCBA30068DD36 /* MultipleSheetsBootcamp.swift */,
 				CE76C83A2BEFDB6B0068DD36 /* MaskBootcamp.swift */,
+				CE76C83C2BEFF0F00068DD36 /* SoundsBootcamp.swift */,
+				CE76C83E2BF005030068DD36 /* Sounds */,
 				CE196DC12BEE504D00BC0C90 /* Assets.xcassets */,
 				CE196DC32BEE504D00BC0C90 /* Preview Content */,
 			);
@@ -92,6 +100,15 @@
 				CE196DC42BEE504D00BC0C90 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CE76C83E2BF005030068DD36 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				CE76C8402BF005650068DD36 /* badum.mp3 */,
+				CE76C83F2BF005650068DD36 /* tada.mp3 */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -152,8 +169,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE76C8422BF005650068DD36 /* badum.mp3 in Resources */,
 				CE196DC52BEE504D00BC0C90 /* Preview Assets.xcassets in Resources */,
 				CE196DC22BEE504D00BC0C90 /* Assets.xcassets in Resources */,
+				CE76C8412BF005650068DD36 /* tada.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -164,6 +183,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE76C83D2BEFF0F00068DD36 /* SoundsBootcamp.swift in Sources */,
 				CEFD5ADF2BEE8D320099E480 /* DragGestureBootcamp.swift in Sources */,
 				CE76C83B2BEFDB6B0068DD36 /* MaskBootcamp.swift in Sources */,
 				CE196DC02BEE504C00BC0C90 /* ContentView.swift in Sources */,
