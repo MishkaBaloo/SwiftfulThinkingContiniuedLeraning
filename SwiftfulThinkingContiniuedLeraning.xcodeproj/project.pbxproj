@@ -14,6 +14,8 @@
 		CE196DCC2BEE510A00BC0C90 /* LongPressGastureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE196DCB2BEE510A00BC0C90 /* LongPressGastureBootcamp.swift */; };
 		CE537B192BEE6DE10076D37A /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE537B182BEE6DE10076D37A /* MagnificationGestureBootcamp.swift */; };
 		CE537B1B2BEE7B7A0076D37A /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE537B1A2BEE7B7A0076D37A /* RotationGestureBootcamp.swift */; };
+		CE76C8332BEFA3300068DD36 /* DragGestureBootcampAdditional.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C8322BEFA3300068DD36 /* DragGestureBootcampAdditional.swift */; };
+		CEFD5ADF2BEE8D320099E480 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFD5ADE2BEE8D320099E480 /* DragGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		CE196DCB2BEE510A00BC0C90 /* LongPressGastureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGastureBootcamp.swift; sourceTree = "<group>"; };
 		CE537B182BEE6DE10076D37A /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 		CE537B1A2BEE7B7A0076D37A /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
+		CE76C8322BEFA3300068DD36 /* DragGestureBootcampAdditional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcampAdditional.swift; sourceTree = "<group>"; };
+		CEFD5ADE2BEE8D320099E480 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				CE196DCB2BEE510A00BC0C90 /* LongPressGastureBootcamp.swift */,
 				CE537B182BEE6DE10076D37A /* MagnificationGestureBootcamp.swift */,
 				CE537B1A2BEE7B7A0076D37A /* RotationGestureBootcamp.swift */,
+				CEFD5ADE2BEE8D320099E480 /* DragGestureBootcamp.swift */,
+				CE76C8322BEFA3300068DD36 /* DragGestureBootcampAdditional.swift */,
 				CE196DC12BEE504D00BC0C90 /* Assets.xcassets */,
 				CE196DC32BEE504D00BC0C90 /* Preview Content */,
 			);
@@ -146,11 +152,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEFD5ADF2BEE8D320099E480 /* DragGestureBootcamp.swift in Sources */,
 				CE196DC02BEE504C00BC0C90 /* ContentView.swift in Sources */,
 				CE196DCC2BEE510A00BC0C90 /* LongPressGastureBootcamp.swift in Sources */,
 				CE537B192BEE6DE10076D37A /* MagnificationGestureBootcamp.swift in Sources */,
 				CE196DBE2BEE504C00BC0C90 /* SwiftfulThinkingContiniuedLeraningApp.swift in Sources */,
 				CE537B1B2BEE7B7A0076D37A /* RotationGestureBootcamp.swift in Sources */,
+				CE76C8332BEFA3300068DD36 /* DragGestureBootcampAdditional.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
