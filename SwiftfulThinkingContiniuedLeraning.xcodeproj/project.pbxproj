@@ -23,6 +23,7 @@
 		CE76C8412BF005650068DD36 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CE76C83F2BF005650068DD36 /* tada.mp3 */; };
 		CE76C8422BF005650068DD36 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CE76C8402BF005650068DD36 /* badum.mp3 */; };
 		CE76C8442BF00C950068DD36 /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C8432BF00C950068DD36 /* HapticsBootcamp.swift */; };
+		CEB1F9022BF21D9F007A2A42 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB1F9012BF21D9F007A2A42 /* HashableBootcamp.swift */; };
 		CEE6B0D52BF163CB0077365A /* LocalNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE6B0D42BF163CB0077365A /* LocalNotificationBootcamp.swift */; };
 		CEFD5ADF2BEE8D320099E480 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFD5ADE2BEE8D320099E480 /* DragGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
@@ -45,6 +46,7 @@
 		CE76C83F2BF005650068DD36 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
 		CE76C8402BF005650068DD36 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
 		CE76C8432BF00C950068DD36 /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
+		CEB1F9012BF21D9F007A2A42 /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
 		CEE6B0D42BF163CB0077365A /* LocalNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootcamp.swift; sourceTree = "<group>"; };
 		CEFD5ADE2BEE8D320099E480 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -93,6 +95,7 @@
 				CE76C83C2BEFF0F00068DD36 /* SoundsBootcamp.swift */,
 				CE76C8432BF00C950068DD36 /* HapticsBootcamp.swift */,
 				CEE6B0D42BF163CB0077365A /* LocalNotificationBootcamp.swift */,
+				CEB1F9012BF21D9F007A2A42 /* HashableBootcamp.swift */,
 				CE76C83E2BF005030068DD36 /* Sounds */,
 				CE196DC12BEE504D00BC0C90 /* Assets.xcassets */,
 				CE196DC32BEE504D00BC0C90 /* Preview Content */,
@@ -189,6 +192,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEB1F9022BF21D9F007A2A42 /* HashableBootcamp.swift in Sources */,
 				CE76C83D2BEFF0F00068DD36 /* SoundsBootcamp.swift in Sources */,
 				CEFD5ADF2BEE8D320099E480 /* DragGestureBootcamp.swift in Sources */,
 				CE76C83B2BEFDB6B0068DD36 /* MaskBootcamp.swift in Sources */,
