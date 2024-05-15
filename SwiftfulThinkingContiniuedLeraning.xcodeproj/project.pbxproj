@@ -14,6 +14,7 @@
 		CE196DCC2BEE510A00BC0C90 /* LongPressGastureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE196DCB2BEE510A00BC0C90 /* LongPressGastureBootcamp.swift */; };
 		CE1C661C2BF5010400EF5898 /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CE1C661A2BF5010400EF5898 /* CoreDataContainer.xcdatamodeld */; };
 		CE1C661E2BF55A7C00EF5898 /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1C661D2BF55A7C00EF5898 /* BackgroundThreadBootcamp.swift */; };
+		CE1C66202BF56D2A00EF5898 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1C661F2BF56D2A00EF5898 /* WeakSelfBootcamp.swift */; };
 		CE537B192BEE6DE10076D37A /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE537B182BEE6DE10076D37A /* MagnificationGestureBootcamp.swift */; };
 		CE537B1B2BEE7B7A0076D37A /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE537B1A2BEE7B7A0076D37A /* RotationGestureBootcamp.swift */; };
 		CE76C8332BEFA3300068DD36 /* DragGestureBootcampAdditional.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C8322BEFA3300068DD36 /* DragGestureBootcampAdditional.swift */; };
@@ -43,6 +44,7 @@
 		CE196DCB2BEE510A00BC0C90 /* LongPressGastureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGastureBootcamp.swift; sourceTree = "<group>"; };
 		CE1C661B2BF5010400EF5898 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		CE1C661D2BF55A7C00EF5898 /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
+		CE1C661F2BF56D2A00EF5898 /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		CE537B182BEE6DE10076D37A /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 		CE537B1A2BEE7B7A0076D37A /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 		CE76C8322BEFA3300068DD36 /* DragGestureBootcampAdditional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcampAdditional.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				CEF7FD612BF2AE03005A1F4E /* CoreDataBootcamp.swift */,
 				CEF7FD662BF4F8B2005A1F4E /* CoreDataRelationshipBootcamp.swift */,
 				CE1C661D2BF55A7C00EF5898 /* BackgroundThreadBootcamp.swift */,
+				CE1C661F2BF56D2A00EF5898 /* WeakSelfBootcamp.swift */,
 				CE1C661A2BF5010400EF5898 /* CoreDataContainer.xcdatamodeld */,
 				CEF7FD632BF2AFC3005A1F4E /* FruitsContainer.xcdatamodeld */,
 				CE76C83E2BF005030068DD36 /* Sounds */,
@@ -224,6 +227,7 @@
 				CEE6B0D52BF163CB0077365A /* LocalNotificationBootcamp.swift in Sources */,
 				CE76C8352BEFADFD0068DD36 /* ScrollViewReaderBootcamp.swift in Sources */,
 				CE76C8392BEFCBA30068DD36 /* MultipleSheetsBootcamp.swift in Sources */,
+				CE1C66202BF56D2A00EF5898 /* WeakSelfBootcamp.swift in Sources */,
 				CE537B192BEE6DE10076D37A /* MagnificationGestureBootcamp.swift in Sources */,
 				CE196DBE2BEE504C00BC0C90 /* SwiftfulThinkingContiniuedLeraningApp.swift in Sources */,
 				CE76C8372BEFB2DD0068DD36 /* GeometryReaderBootcamp.swift in Sources */,
