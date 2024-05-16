@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftfulThinkingContiniuedLeraningApp: App {
     var body: some Scene {
         WindowGroup {
-            CodableBootcamp()
+            DownloadWithEscapingBootcamp()
         }
     }
 }
