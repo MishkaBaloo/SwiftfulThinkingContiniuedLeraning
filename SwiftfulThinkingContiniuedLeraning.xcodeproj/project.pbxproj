@@ -27,6 +27,7 @@
 		CE76C8422BF005650068DD36 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CE76C8402BF005650068DD36 /* badum.mp3 */; };
 		CE76C8442BF00C950068DD36 /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76C8432BF00C950068DD36 /* HapticsBootcamp.swift */; };
 		CE90B2542BF786D80099A3E9 /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE90B2532BF786D70099A3E9 /* SubscriberBootcamp.swift */; };
+		CE90B2562BF7F30B0099A3E9 /* FileManagerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE90B2552BF7F30B0099A3E9 /* FileManagerBootcamp.swift */; };
 		CEA13CBF2BF74D8000D135BD /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA13CBE2BF74D8000D135BD /* TimerBootcamp.swift */; };
 		CEB1F9022BF21D9F007A2A42 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB1F9012BF21D9F007A2A42 /* HashableBootcamp.swift */; };
 		CEB1F9042BF228CC007A2A42 /* ArraysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB1F9032BF228CC007A2A42 /* ArraysBootcamp.swift */; };
@@ -64,6 +65,7 @@
 		CE76C8402BF005650068DD36 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
 		CE76C8432BF00C950068DD36 /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
 		CE90B2532BF786D70099A3E9 /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
+		CE90B2552BF7F30B0099A3E9 /* FileManagerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerBootcamp.swift; sourceTree = "<group>"; };
 		CEA13CBE2BF74D8000D135BD /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
 		CEB1F9012BF21D9F007A2A42 /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
 		CEB1F9032BF228CC007A2A42 /* ArraysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysBootcamp.swift; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 				CEC3CEC12BF6ABCA003E787F /* DownloadWithCombine.swift */,
 				CEA13CBE2BF74D8000D135BD /* TimerBootcamp.swift */,
 				CE90B2532BF786D70099A3E9 /* SubscriberBootcamp.swift */,
+				CE90B2552BF7F30B0099A3E9 /* FileManagerBootcamp.swift */,
 				CE1C661A2BF5010400EF5898 /* CoreDataContainer.xcdatamodeld */,
 				CEF7FD632BF2AFC3005A1F4E /* FruitsContainer.xcdatamodeld */,
 				CE76C83E2BF005030068DD36 /* Sounds */,
@@ -240,6 +243,7 @@
 				CE76C83D2BEFF0F00068DD36 /* SoundsBootcamp.swift in Sources */,
 				CE1C661E2BF55A7C00EF5898 /* BackgroundThreadBootcamp.swift in Sources */,
 				CEFD5ADF2BEE8D320099E480 /* DragGestureBootcamp.swift in Sources */,
+				CE90B2562BF7F30B0099A3E9 /* FileManagerBootcamp.swift in Sources */,
 				CEF7FD622BF2AE03005A1F4E /* CoreDataBootcamp.swift in Sources */,
 				CE76C83B2BEFDB6B0068DD36 /* MaskBootcamp.swift in Sources */,
 				CE196DC02BEE504C00BC0C90 /* ContentView.swift in Sources */,
